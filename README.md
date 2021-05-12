@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhai-bhai-hero
 - 👀 I’m interested in software development and blockchain technology
-- 🌱 I’m currently learning blockchain technology
+- 🌱 I’m currently building some projects on MERN stack and Firebase
 - 💞️ I’m looking to collaborate on some good projects
 
 
